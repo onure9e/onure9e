@@ -1,8 +1,7 @@
 # Hakkımda
 
 - 👋 Merhaba, Ben @onure9e Diğer Adımla Onurege
-- 👀 Discord.js Ve C# İle İlgileniyorum
-- 💞️ Her Türlü İş Birliği Ve Projeye Açığım
+- 👀 Discord.js İle ilgileniyorum
 
 # İletişim
 
