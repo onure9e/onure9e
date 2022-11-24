@@ -1,11 +1,11 @@
 # Hakkımda
 
 - 👋 Merhaba, Ben @onure9e Diğer Adımla Onurege
-- 👀 Discord.js İle ilgileniyorum
+- 👀 Javascript İle ilgileniyorum
 
 # İletişim
 
-**Discord** : [Onurege#4848](https://discord.com/users/518829079668064256)
+**Discord** : [Onurege#4848](https://discord.com/users/518829079668064256) veya [Onurege#4787](https://discord.com/users/786876136066908190)
 
 #  Dashboard
 
