@@ -1,7 +1,7 @@
 # Hakkımda
 
 - 👋 Merhaba, Ben @onure9e Diğer Adımla Onurege
-- 👀 Javascript İle ilgileniyorum
+- 👀 Javascript,HTML ve C# ilgileniyorum
 
 # İletişim
 
