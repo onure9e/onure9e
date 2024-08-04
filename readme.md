@@ -5,7 +5,7 @@
 
 # İletişim
 
-**Discord** : [Onurege#4848](https://discord.com/users/518829079668064256) veya [Onurege#4787](https://discord.com/users/786876136066908190)
+**Discord** : [onurege3467](https://discord.com/users/786876136066908190)
 
 #  Dashboard
 
